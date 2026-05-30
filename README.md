@@ -67,5 +67,6 @@ Developed by:212225240105:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e344f042-cc6f-4f8c-bce0-beb3e4b27f37" />
 
 
-**RESULTS**
+**RESULT**
+
 Thus the Serial-In Serial-Out shift register is implemented and verified.
